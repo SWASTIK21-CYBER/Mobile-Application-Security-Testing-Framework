@@ -1,0 +1,4 @@
+requests
+frida
+frida-tools
+jinja2
